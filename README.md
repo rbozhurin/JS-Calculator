@@ -1,1 +1,1 @@
-# JS-Calculator Simple Calculator based on JavaScript language
+#Simple Calculator based on JavaScript language
